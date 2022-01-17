@@ -17,8 +17,8 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.I am a **FRONT-END DEVELOPER**, I'm 
   <li>🎓 I’m currently a ECE Undergrad student at AEC, MAKAUT </li>
   <li>❤️ I love Creating websites and Programming in C++.</li>
   <li>🌱 I’m currently learning Web Development, React, Android Development, C, C++, C#, Java, Python, and JS.</li>
-  <li> 👨🏽‍💻 DBMS, MySQL, MongoDB</li>
-  <li> 🤔 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms.</li> 
+  <li>👨🏽‍💻 DBMS, MySQL, MongoDB</li>
+  <li>🤔 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms.</li> 
   <li>💬 Ask me about anything, I am happy to help</li>
   <li>📫 Email me at: <a href="mailto: avracoding@gmail.com">avracoding@gmail.com</a></li>
   <li>🤝 I’m looking for help with <b>Open Source Contributions</b></li>
